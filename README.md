@@ -1,1 +1,2 @@
-# EE_Notes
+# EE Notes
+## Suizhong Qin
